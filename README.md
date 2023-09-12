@@ -1,34 +1,27 @@
 # Wakizashi
  
-collaboration with Falconloft\#4615
-
-40s keyboard inspired by the TG4x. sandwich style case with midlayers case. Supports Bluetooth enabled micro controllers with use of this [power button](https://tech.alpsalpine.com/e/products/detail/SSSS811101/) as well as smd and throughhole style diodes.
-
-Firmware for standard atmega & rp2040 pro micro style controllers is included. Bluetooth is supported for bluemicro style controllers.
-
-concept, case design and firmware by Falconloft\#4615, pcb design by Calvin\#0563
+Another collaboration with Falconloft4615. The wakizashi is a simple controller drop in PCB, with the aim to support BLE controller. This is a katana staggered layout with an adundance of options for the alpha cluster as well as the bottomrow.
 
 ## Layout
 
-![](https://github.com/calvin-mcd/Kestrel47/blob/main/Images/layout.png)
+![](https://github.com/calvin-mcd/Wakizashi/blob/main/Images/KLE.png)
 
-[Link](http://www.keyboard-layout-editor.com/#/gists/43b69fae42faf7c21a81fad3a4cf8861)
+[Link](http://www.keyboard-layout-editor.com/#/gists/63cf34c3830b2de49229a321a906cf57)
 
 ## Pictures
 
-![](https://github.com/calvin-mcd/Kestrel47/blob/main/Images/case1.jpg)  
-![](https://github.com/calvin-mcd/Kestrel47/blob/main/Images/case2.jpg)  
-![](https://github.com/calvin-mcd/Kestrel47/blob/main/Images/pcb.jpg)
+![](https://github.com/calvin-mcd/Wakizashi/blob/main/Images/top.png)
+![](https://github.com/calvin-mcd/Wakizashi/blob/main/Images/bottom.png)
 
-## Firmware
+## Todo
 
-Firmware for both Atmega and rp2040 controllers is functional and included.
-
-The Bluetooth firmware is zmk based, functional and included.
+- [ ] order & test pcb
+- [ ] create firmware
+- [ ] create simple sandwhich case 
 
 ## Disclaimer
 
-This PCB has been fully tested and confirmed to work. The members of the PCB development team are however not liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
+Please note that this project is a work in progress with no guarantees of a working outcome. No-one involved in this project is responsible for any usage issues that may arise. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
 
 ## License
 
@@ -41,4 +34,4 @@ This work is licensed under a
 
 ## Credits
 
-Any questions, contact Falconloft\#4615 & Calvin\#0563 on Discord. 
+Any questions, contact Falconloft4615 & Calvin0563 on Discord. 
